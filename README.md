@@ -9,7 +9,7 @@
 - Understanding and Analyzing data using SQL.
 - Transforming data using Power Query.
 - Building KPIs using DAX Language.
-- Building an interactive dashboard to display the insights using Power BI.
+- Building an interactive dashboard to display the insights using Power BI
 
 
 <img src="Page_1.png">
