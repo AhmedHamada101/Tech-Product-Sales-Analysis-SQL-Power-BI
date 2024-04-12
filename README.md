@@ -17,4 +17,4 @@
 - Building an interactive dashboard to display the insights using Power BI.
 
 
-<img src="Page_1.png">
+<img src="Screenshot 2024-04-12 141037.png">
