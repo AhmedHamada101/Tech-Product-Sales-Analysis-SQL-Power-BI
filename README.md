@@ -1,5 +1,10 @@
 # Tech-Product-Sales-Analysis-SQL-Power-BI
 
+
+**You can see the dashboard from this link:** https://www.novypro.com/project/tech-products-sales-analysis-power-bi 
+
+
+
 **Purpose:** Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
 
 
@@ -13,12 +18,3 @@
 
 
 <img src="Page_1.png">
-
-
-<img src="Page_2.png">
-
-
-<img src="Page_3.png">
-
-
-<img src="Page_4.png">
