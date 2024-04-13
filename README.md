@@ -1,7 +1,7 @@
 # Tech-Product-Sales-Analysis-SQL-Power-BI
 
 
-**You can see the dashboard from this link:** https://www.novypro.com/project/tech-products-sales-analysis-power-bi 
+**You can see the report (dashboard) from this link:** https://www.novypro.com/project/tech-products-sales-analysis-power-bi 
 
 
 
