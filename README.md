@@ -1,8 +1,7 @@
 # Tech-Product-Sales-Analysis-SQL-Power-BI
 
 
-**You can see the report (dashboard) from this link:** https://www.novypro.com/project/tech-products-sales-analysis-power-bi 
-
+## [Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQxZDE2MzEtMjU3Ny00N2E4LThiNDUtMGJmYjBjNmZmMTg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 **Purpose:** 
